@@ -1,0 +1,8 @@
+# Recordings and generated videos belong outside source control.
+*.dat
+*.DAT
+*.mp4
+*.MP4
+output/
+output_fixed/
+*.log
